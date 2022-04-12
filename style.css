@@ -1,0 +1,125 @@
+
+
+
+
+body {
+  background-image: url('images/brick_background.jpg');
+}
+
+.index_body {
+  padding-top: 7%;
+  padding-bottom: 10%
+}
+.main_title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.title__body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+
+
+
+}
+
+.top_bar {
+  background-color: #00AEC7;
+  position: relative;
+  top: 0%
+  width: 100%;
+  border-bottom: solid 10px;
+}
+
+
+
+.footer {
+  bottom: 0%;
+  margin: 50px 0 0 0;
+  height: 70px;
+  width: 100%;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+.footer-link{
+  text-decoration: none;
+}
+
+
+
+.contact {
+  text-align: center;
+  padding: 7%;
+
+}
+
+
+
+.contact_me {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #bfbfbf);
+  background-image: -moz-linear-gradient(top, #ffffff, #bfbfbf);
+  background-image: -ms-linear-gradient(top, #ffffff, #bfbfbf);
+  background-image: -o-linear-gradient(top, #ffffff, #bfbfbf);
+  background-image: linear-gradient(to bottom, #ffffff, #bfbfbf);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 24px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact_me:hover {
+  background: #9c9d9e;
+  background-image: -webkit-linear-gradient(top, #9c9d9e, #4b4c4d);
+  background-image: -moz-linear-gradient(top, #9c9d9e, #4b4c4d);
+  background-image: -ms-linear-gradient(top, #9c9d9e, #4b4c4d);
+  background-image: -o-linear-gradient(top, #9c9d9e, #4b4c4d);
+  background-image: linear-gradient(to bottom, #9c9d9e, #4b4c4d);
+  text-decoration: none;
+}
+
+
+
+.form_label {text-align: left;
+
+
+
+}
+
+.contact_form{
+  margin-top: 30px;
+
+}
+
+/* About me */
+
+.about-me-title{
+  padding-top: 3%;
+}
+
+.alex-image{
+  padding-top: 3%;
+}
+
+.hobbies {
+  list-style: none;
+}
+
+.self-description{
+  padding: 2%
+}
+
+/* Employment History*/
+
+.skill-table {
+  margin-left: auto;
+  margin-right: auto;
+}
